@@ -19,7 +19,11 @@
           "https://imgpile.com/images/dG9ogk.png"
         ],
         "IconUrl": "https://imgpile.com/images/dG9ogk.png",
+        "DownloadLinkInstall": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/SimonSays/latest.zip",
+        "DownloadLinkTesting": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/SimonSays/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/SimonSays/latest.zip",
         "Punchline": "Sync emotes like never before!",
-        "AcceptsFeedback": true
+        "AcceptsFeedback": true,
+        "LastUpdate": "1684121552"
       }
 ]
