@@ -1,0 +1,25 @@
+[
+    {
+        "Author": "Rayla Valdez",
+        "Name": "SimonSays",
+        "InternalName": "SimonSays",
+        "AssemblyVersion": "1.0.0.1",
+        "Description": "By providing channels that you wish for SimonSays to listen to & a catchphrase, you can recieve emote instructions from chat. Making a perfectly synced hug, IDK what you were thinking.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/RaylaValdez/SimonSays",
+        "Tags": [
+          "emote",
+          "sync"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+          "https://imgpile.com/images/dG9ogk.png"
+        ],
+        "IconUrl": "https://imgpile.com/images/dG9ogk.png",
+        "Punchline": "Sync emotes like never before!",
+        "AcceptsFeedback": true
+      }
+]
