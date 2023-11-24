@@ -3,7 +3,7 @@
         "Author": "Rayla Valdez",
         "Name": "SimonSays",
         "InternalName": "SimonSays",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "Description": "By providing channels that you wish for SimonSays to listen to & a catchphrase, you can recieve emote instructions from chat. Making a perfectly synced hug, IDK what you were thinking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/RaylaValdez/SimonSays",
@@ -11,7 +11,7 @@
           "emote",
           "sync"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "LoadPriority": 0,
