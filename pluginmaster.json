@@ -3,7 +3,7 @@
         "Author": "Rayla Valdez",
         "Name": "SimonSays",
         "InternalName": "SimonSays",
-        "AssemblyVersion": "1.0.2.2",
+        "AssemblyVersion": "1.0.2.3",
         "Description": "Syncs emotes by using the chat itself, read Usage tab!",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/RaylaValdez/SimonSays",
@@ -23,8 +23,7 @@
         "DownloadLinkTesting": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/SimonSays/latest.zip",
         "DownloadLinkUpdate": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/SimonSays/latest.zip",
         "Punchline": "Sync emotes like never before!",
-        "AcceptsFeedback": true,
-        "LastUpdate": "1684121552"
+        "AcceptsFeedback": true
       },
 
       {
@@ -44,7 +43,6 @@
         "DownloadLinkTesting": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/TeleporterPluginDT/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/TeleporterPluginDT/latest.zip",
         "Punchline": "Chat Commands for Teleporting",
-        "AcceptsFeedback": true,
-        "LastUpdate": "1684121552"
+        "AcceptsFeedback": true
       }
 ]
