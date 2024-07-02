@@ -40,9 +40,9 @@
         "LoadSync": false,
         "CanUnloadAsync": false,
         "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/TeleporterPlugin/latest.zip",
-        "DownloadLinkTesting": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/TeleporterPlugin/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/TeleporterPlugin/latest.zip",
+        "DownloadLinkInstall": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/TeleporterPluginDT/latest.zip",
+        "DownloadLinkTesting": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/TeleporterPluginDT/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/TeleporterPluginDT/latest.zip",
         "Punchline": "Chat Commands for Teleporting",
         "AcceptsFeedback": true,
         "LastUpdate": "1684121552"
